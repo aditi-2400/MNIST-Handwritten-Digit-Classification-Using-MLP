@@ -1,6 +1,8 @@
 # MNIST-Handwritten-Digit-Classification-Using-MLP
 This project using Multilayer Perceptron neural network to classify handwritten digits
+
 Model Architecture
+
 The MLP model consists of the following layers:
 
 Input Layer: 784 neurons (28x28 pixels flattened).
